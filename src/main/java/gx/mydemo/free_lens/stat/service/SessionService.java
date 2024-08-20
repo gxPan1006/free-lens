@@ -1,5 +1,6 @@
 package gx.mydemo.free_lens.stat.service;
 
+import gx.mydemo.free_lens.stat.dao.Session;
 import gx.mydemo.free_lens.stat.dao.SessionCollection;
 import gx.mydemo.free_lens.stat.repository.SessionCollectionRepository;
 import org.springframework.beans.factory.annotation.Autowired;
