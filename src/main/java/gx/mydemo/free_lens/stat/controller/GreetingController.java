@@ -6,7 +6,7 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
-import gx.mydemo.free_lens.Greeting;
+import gx.mydemo.free_lens.stat.dto.Greeting;
 
 @RestController
 public class GreetingController {
